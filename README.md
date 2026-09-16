@@ -2,7 +2,7 @@
 
 > Sistema educacional de detecção e bloqueio de ataques web em tempo real.  
 > Desenvolvido com HTML/CSS/JS vanilla + Python 3 (Standard Library apenas — zero dependências externas).
-
+> O sistema se trata de um projeto que ainda não está completo
 ---
 
 ## 📁 Estrutura do Projeto
@@ -288,6 +288,7 @@ git status   # .env NÃO deve aparecer na lista
 Este sistema é **estritamente educacional**.  
 Destina-se ao aprendizado de conceitos de segurança ofensiva/defensiva em ambientes controlados.  
 **Não utilize em produção** sem auditoria completa de segurança.
+**Em construção erros devem ser esperados
 
 ---
 
@@ -300,5 +301,5 @@ Destina-se ao aprendizado de conceitos de segurança ofensiva/defensiva em ambie
 
 ---
 
-*TRIGGER SECURITY © 2025 — Sistema Educacional de Monitoramento de Acesso*
+*TRIGGER SECURITY © 2026 — Sistema Educacional de Monitoramento de Acesso - Em construção*
 *Atualizado com Sistema Dual de E-mail — v2.0*
