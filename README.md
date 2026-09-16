@@ -2,7 +2,8 @@
 
 > Sistema educacional de detecção e bloqueio de ataques web em tempo real.  
 > Desenvolvido com HTML/CSS/JS vanilla + Python 3 (Standard Library apenas — zero dependências externas).
-> O sistema se trata de um projeto que ainda não está completo
+> O sistema se trata de um projeto que ainda não está completo.
+
 ---
 
 ## 📁 Estrutura do Projeto
