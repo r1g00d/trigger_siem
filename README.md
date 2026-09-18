@@ -304,3 +304,4 @@ Destina-se ao aprendizado de conceitos de segurança ofensiva/defensiva em ambie
 
 *TRIGGER SECURITY © 2026 — Sistema Educacional de Monitoramento de Acesso - Em construção*
 *Atualizado com Sistema Dual de E-mail — v2.0*
+*🤖 Crafted with Antigravity.*
